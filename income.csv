@@ -1,0 +1,225 @@
+﻿Age,Income (Annual),Spending Score (1-100),Classification
+34," $25,000         ",75, Spender
+23," $28,000         ",80, Spender
+20    ," $30,000         ",85, Spender
+21    ," $32,000         ",90, Spender
+22    ," $35,000         ",95, Spender
+23    ," $38,000         ",90, Spender
+24    ," $40,000         ",85, Spender
+25    ," $45,000         ",80, Spender
+26    ," $50,000         ",75, Spender
+27    ," $55,000         ",70, Spender
+28    ," $60,000         ",65, Spender
+29    ," $65,000         ",60, Spender
+30    ," $70,000         ",55, Spender
+31    ," $75,000         ",50, Spender
+32    ," $80,000         ",45, Spender
+33    ," $85,000         ",40, Spender
+34    ," $90,000         ",35, Spender
+35    ," $95,000         ",30, Spender
+36    ," $100,000        ",25, Spender
+37    ," $105,000        ",20, Spender
+38    ," $110,000        ",15, Spender
+39    ," $115,000        ",10, Spender
+40    ," $120,000        ",5, Spender
+41    ," $125,000        ",95, Spender
+42    ," $130,000        ",90, Spender
+43    ," $135,000        ",85, Spender
+44    ," $140,000        ",80, Spender
+45    ," $145,000        ",75, Spender
+46    ," $150,000        ",70, Spender
+47    ," $155,000        ",65, Spender
+48    ," $160,000        ",60, Spender
+49    ," $165,000        ",55, Spender
+50    ," $170,000        ",50, Spender
+51    ," $175,000        ",45, Spender
+52    ," $180,000        ",40, Spender
+53    ," $185,000        ",35, Spender
+54    ," $190,000        ",30, Spender
+55    ," $195,000        ",25, Spender
+56    ," $200,000        ",20, Spender
+57    ," $190,000        ",15, Spender
+58    ," $180,000        ",10, Spender
+59    ," $170,000        ",5, Spender
+60    ," $160,000        ",95, Spender
+61    ," $150,000        ",90, Spender
+62    ," $140,000        ",85, Spender
+63    ," $130,000        ",80, Spender
+64    ," $120,000        ",75, Spender
+65    ," $110,000        ",70, Spender
+66    ," $100,000        ",65, Spender
+67    ," $90,000         ",60, Spender
+68    ," $80,000         ",55, Spender
+69    ," $70,000         ",50, Spender
+70    ," $60,000         ",45, Spender
+71    ," $50,000         ",40, Spender
+72    ," $40,000         ",35, Spender
+73    ," $30,000         ",30, Spender
+74    ," $20,000         ",25, Spender
+75    ," $10,000         ",20, Spender
+18    ," $25,000         ",25, Budget-Conscious
+19    ," $28,000         ",30, Budget-Conscious
+20    ," $30,000         ",35, Budget-Conscious
+21    ," $32,000         ",40, Budget-Conscious
+22    ," $35,000         ",45, Budget-Conscious
+23    ," $38,000         ",50, Budget-Conscious
+24    ," $40,000         ",55, Budget-Conscious
+25    ," $45,000         ",60, Budget-Conscious
+26    ," $50,000         ",65, Budget-Conscious
+27    ," $55,000         ",70, Budget-Conscious
+28    ," $60,000         ",75, Budget-Conscious
+29    ," $65,000         ",80, Budget-Conscious
+30    ," $70,000         ",85, Budget-Conscious
+31    ," $75,000         ",90, Budget-Conscious
+32    ," $80,000         ",95, Budget-Conscious
+33    ," $85,000         ",90, Budget-Conscious
+34    ," $90,000         ",85, Budget-Conscious
+35    ," $95,000         ",80, Budget-Conscious
+36    ," $100,000        ",75, Budget-Conscious
+37    ," $105,000        ",70, Budget-Conscious
+38    ," $110,000        ",65, Budget-Conscious
+39    ," $115,000        ",60, Budget-Conscious
+40    ," $120,000        ",55, Budget-Conscious
+41    ," $125,000        ",50, Budget-Conscious
+42    ," $130,000        ",45, Budget-Conscious
+43    ," $135,000        ",40, Budget-Conscious
+44    ," $140,000        ",35, Budget-Conscious
+45    ," $145,000        ",30, Budget-Conscious
+46    ," $150,000        ",25, Budget-Conscious
+47    ," $155,000        ",20, Budget-Conscious
+48    ," $160,000        ",15, Budget-Conscious
+49    ," $165,000        ",10, Budget-Conscious
+50    ," $170,000        ",5, Budget-Conscious
+51    ," $175,000        ",95, Budget-Conscious
+52    ," $180,000        ",90, Budget-Conscious
+53    ," $185,000        ",85, Budget-Conscious
+54    ," $190,000        ",80, Budget-Conscious
+55    ," $195,000        ",75, Budget-Conscious
+56    ," $200,000        ",70, Budget-Conscious
+57    ," $190,000        ",65, Budget-Conscious
+58    ," $180,000        ",60, Budget-Conscious
+59    ," $170,000        ",55, Budget-Conscious
+60    ," $160,000        ",50, Budget-Conscious
+61    ," $150,000        ",45, Budget-Conscious
+62    ," $140,000        ",40, Budget-Conscious
+63    ," $130,000        ",35, Budget-Conscious
+64    ," $120,000        ",30, Budget-Conscious
+65    ," $110,000        ",25, Budget-Conscious
+66    ," $100,000        ",20, Budget-Conscious
+67    ," $90,000         ",15, Budget-Conscious
+68    ," $80,000         ",10, Budget-Conscious
+69    ," $70,000         ",5, Budget-Conscious
+70    ," $60,000         ",95, Budget-Conscious
+71    ," $50,000         ",90, Budget-Conscious
+72    ," $40,000         ",85, Budget-Conscious
+73    ," $30,000         ",80, Budget-Conscious
+74    ," $20,000         ",75, Budget-Conscious
+75    ," $10,000         ",70, Budget-Conscious
+18    ," $40,000         ",95, Saver
+19    ," $45,000         ",90, Saver
+20    ," $50,000         ",85, Saver
+21    ," $55,000         ",80, Saver
+22    ," $60,000         ",75, Saver
+23    ," $65,000         ",70, Saver
+24    ," $70,000         ",65, Saver
+25    ," $75,000         ",60, Saver
+26    ," $80,000         ",55, Saver
+27    ," $85,000         ",50, Saver
+28    ," $90,000         ",45, Saver
+29    ," $95,000         ",40, Saver
+30    ," $100,000        ",35, Saver
+31    ," $105,000        ",30, Saver
+32    ," $110,000        ",25, Saver
+33    ," $115,000        ",20, Saver
+34    ," $120,000        ",15, Saver
+35    ," $125,000        ",10, Saver
+36    ," $130,000        ",5, Saver
+37    ," $135,000        ",95, Saver
+38    ," $140,000        ",90, Saver
+39    ," $145,000        ",85, Saver
+40    ," $150,000        ",80, Saver
+41    ," $155,000        ",75, Saver
+42    ," $160,000        ",70, Saver
+43    ," $165,000        ",65, Saver
+44    ," $170,000        ",60, Saver
+45    ," $175,000        ",55, Saver
+46    ," $180,000        ",50, Saver
+47    ," $185,000        ",45, Saver
+48    ," $190,000        ",40, Saver
+49    ," $195,000        ",35, Saver
+50    ," $200,000        ",30, Saver
+51    ," $190,000        ",25, Saver
+52    ," $180,000        ",20, Saver
+53    ," $170,000        ",15, Saver
+54    ," $160,000        ",10, Saver
+55    ," $150,000        ",5, Saver
+56    ," $140,000        ",95, Saver
+57    ," $130,000        ",90, Saver
+58    ," $120,000        ",85, Saver
+59    ," $110,000        ",80, Saver
+60    ," $100,000        ",75, Saver
+61    ," $90,000         ",70, Saver
+62    ," $80,000         ",65, Saver
+63    ," $70,000         ",60, Saver
+64    ," $60,000         ",55, Saver
+65    ," $50,000         ",50, Saver
+66    ," $40,000         ",45, Saver
+67    ," $30,000         ",40, Saver
+68    ," $20,000         ",35, Saver
+69    ," $10,000         ",30, Saver
+70    ," $5,000          ",25, Saver
+71    ," $4,000          ",20, Saver
+72    ," $3,000          ",15, Saver
+73    ," $2,000          ",10, Saver
+74    ," $1,000          ",5, Saver
+75    , $500            ,5, Saver
+50," $5,000          ",15, Budget-Conscious
+45," $4,000          ",20, Budget-Conscious
+21," $3,000          ",25, Budget-Conscious
+57," $2,000          ",30, Budget-Conscious
+35," $1,000          ",35, Budget-Conscious
+38, $500            ,40, Budget-Conscious
+29, $4990            ,45, Budget-Conscious
+71," $50,000         ",50, Budget-Conscious
+35," $55,000         ",55, Budget-Conscious
+39," $60,000         ",60, Budget-Conscious
+21," $65,000         ",65, Budget-Conscious
+27," $70,000         ",70, Budget-Conscious
+58," $75,000         ",75, Budget-Conscious
+60," $80,000         ",80, Budget-Conscious
+56," $85,000         ",85, Budget-Conscious
+35," $90,000         ",90, Budget-Conscious
+32," $95,000         ",95, Budget-Conscious
+29," $100,000        ",5, Saver
+52," $105,000        ",10, Saver
+69," $110,000        ",15, Saver
+66," $115,000        ",20, Saver
+63," $120,000        ",25, Saver
+79," $125,000        ",30, Saver
+53," $130,000        ",35, Saver
+47," $135,000        ",40, Saver
+24," $140,000        ",45, Saver
+48," $145,000        ",50, Saver
+22," $150,000        ",55, Saver
+33," $155,000        ",60, Saver
+26," $160,000        ",65, Saver
+28," $165,000        ",70, Saver
+39," $170,000        ",75, Saver
+45," $175,000        ",80, Saver
+39," $180,000        ",85, Saver
+47," $185,000        ",90, Saver
+43," $190,000        ",95, Saver
+52," $195,000        ",5, Saver
+28," $200,000        ",10, Saver
+39," $190,000        ",15, Saver
+32," $180,000        ",20, Saver
+41," $170,000        ",25, Saver
+29," $160,000        ",30, Saver
+27," $150,000        ",35, Saver
+50," $140,000        ",40, Saver
+49," $130,000        ",45, Saver
+39," $120,000        ",50, Saver
+31," $110,000        ",55, Saver
+37," $100,000        ",60, Saver
+38," $90,000         ",65, Saver
+47," $80,000         ",70, Saver

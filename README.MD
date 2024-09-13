@@ -1,0 +1,3 @@
+Packange to INSTALL
+mathplotlib
+jupyter
